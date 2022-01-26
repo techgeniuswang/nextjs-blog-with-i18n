@@ -1,0 +1,8 @@
+{
+  "h1": "中文 Ein einfaches Beispiel",
+  "change-locale": "中文 Wechseln Locale",
+  "to-second-page": "中文 Zur zweiten Seite",
+  "error-with-status": "中文 Auf dem Server ist ein Fehler ({{statusCode}}) aufgetreten",
+  "error-without-status": "中文 Auf dem Server ist ein Fehler aufgetreten",
+  "title": "中文 Hauptseite | next-i18next"
+}
